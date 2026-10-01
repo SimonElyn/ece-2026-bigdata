@@ -1,0 +1,1 @@
+{"Rules":[{"ID":"expire-raw-after-30-days","Status":"Enabled","Filter":{"Prefix":"data/"},"Expiration":{"Days":30}},{"ID":"abort-incomplete-multipart","Status":"Enabled","Filter":{"Prefix":""},"AbortIncompleteMultipartUpload":{"DaysAfterInitiation":7}}]}
