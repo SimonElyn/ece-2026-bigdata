@@ -14,4 +14,8 @@ uv run dataset_users.py -h
 #>   -o, --output {csv,json,jsonline}
 #>                         Output format.
 
+# ECE 2026 – Big Data
+
+Projet réalisé dans le cadre du cours de Big Data à l'ECE (2026).
+
 
